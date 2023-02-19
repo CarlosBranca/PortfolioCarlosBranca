@@ -1,0 +1,37 @@
+.education {
+    padding: 20px ;
+  }
+  div{
+    background: #a1b5cb
+  }
+
+  .education-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .education-item {
+    margin: 20px 0;
+  }
+  
+  .education-title {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .education-degree {
+    font-size: 18px;
+    color: #888;
+  }
+  
+  .education-duration {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .education-description {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  

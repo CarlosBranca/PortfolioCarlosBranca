@@ -1,0 +1,33 @@
+.experience {
+   padding: 20px; 
+  }
+
+  div{
+    background: #a1b5cb
+  }
+  
+  .job-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .job {
+    margin: 20px 0;
+  }
+  
+  .job-title {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .job-duration {
+    font-size: 18px;
+    color: #888;
+  }
+  
+  .job-description {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
