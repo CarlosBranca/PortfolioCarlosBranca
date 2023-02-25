@@ -1,0 +1,71 @@
+[33mcommit 163169c92deb0f5456d26b0c4af25edc08040fae[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Fri Feb 24 23:32:40 2023 -0300
+
+    Creacion de carpeta FrontEnd
+
+[33mcommit 6ea957e700e028d0b0e95a28bf4c982d0796a320[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Fri Feb 24 23:06:06 2023 -0300
+
+    hasta el la parta del backend
+
+[33mcommit 9140e2242272f768e10ff0c4e92c9dc1c997f1a3[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Fri Feb 24 19:33:34 2023 -0300
+
+    se agrega botton y se hacen correciones
+
+[33mcommit c1139cadc8c0041f09904953ce8c96f08477dd60[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Mon Feb 20 02:13:10 2023 -0300
+
+    se agrega el footer al proyecto
+
+[33mcommit 0d1e5639811de9bdea34418902c1468772dd0616[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Sun Feb 19 02:23:50 2023 -0300
+
+    se agregan los ng circle
+
+[33mcommit e83571d38a6e4eabc36582d775195583690a5313[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Sat Feb 18 23:27:09 2023 -0300
+
+    se agregan los componentes exp. laboral y edu.
+
+[33mcommit fd799c0421b1da7880bc444ffa8a0e089ad1855a[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Sat Feb 18 00:18:37 2023 -0300
+
+    edite foto de perfil y acerca de
+
+[33mcommit 78ebafaf4df99e2cefeee52c516be8ae0949fad7[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Fri Feb 17 01:01:50 2023 -0300
+
+    agregamos foto, banner y acerca de
+
+[33mcommit 5b33d486ac81e8ac5e0f6d0477573397f6edf430[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Thu Feb 16 22:51:47 2023 -0300
+
+    se instala NodeJs al proyecto
+
+[33mcommit bc4e8ab976567fde7a9834bcc6154c51c1fa9708[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Thu Feb 16 22:36:17 2023 -0300
+
+    creacion de index
+
+[33mcommit fd1d7b123872d68da609a1e4367fe5c26487c408[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Thu Feb 16 22:34:50 2023 -0300
+
+    creación index
+
+[33mcommit 66bb75621568c31675f5c2abfe27e283df510e3c[m
+Author: CarlosBranca <pipibranca10@gmail.com>
+Date:   Thu Feb 16 22:30:48 2023 -0300
+
+    Initial commit
